@@ -20,7 +20,7 @@ Website: https://hemanth850.github.io/portfolio/
 [![website](./img/instagram-dark.svg)](https://instagram.com/codeSTACKr#gh-dark-mode-only)
 
 
-
+[website]: https://codeSTACKr.com
 <!--
 **hemanth850/hemanth850** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
